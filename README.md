@@ -53,7 +53,7 @@ duongg = {
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn%20Dương-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn%20Dương-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/duong-nguyen2011/))
 [![GitHub](https://img.shields.io/badge/GitHub-Duon--gg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duon-gg)
 
 ---
