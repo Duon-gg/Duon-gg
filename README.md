@@ -1,8 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7F00FF&height=200&section=header&text=Hey,%20I'm%20Dươngg%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20idea%20to%20reality.&descAlignY=58&descSize=18)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Duon-gg&color=7F00FF&style=flat-square)
-![Age](https://img.shields.io/badge/2005-born-7F00FF?style=flat-square)
-![University](https://img.shields.io/badge/Văn%20Lang%20University-Year%203-0D1117?style=flat-square&logo=googlescholar&logoColor=white)
+![University](https://img.shields.io/badge/Văn%20Lang%20University-IT-0D1117?style=flat-square&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Ho%20Chi%20Minh%20City-🇻🇳-7F00FF?style=flat-square)
 
 ---
 
@@ -10,39 +10,22 @@
 
 ```python
 duongg = {
-    "name"      : "Nguyễn Văn Tùng Dương",
-    "alias"     : "Dươngg",
-    "university": "Văn Lang University — Year 3, IT",
+    "role"      : "Builder & Learner",
     "location"  : "Ho Chi Minh City 🇻🇳",
-    "focus"     : ["AI / Machine Learning", "AI Agents", "AI Tools"],
-    "interests" : ["Computer Vision", "Data Engineering", "Design"],
+    "mindset"   : "Always exploring, always building",
     "hobbies"   : ["🎮 Gaming", "🎵 Music", "🎬 Movies"],
-    "personality": "Detail-oriented • Creative • Builder",
     "motto"     : "From idea to reality.",
 }
 ```
+
+> *Year 3 IT student who turns ideas into real things.
+> Currently exploring tech, design, and whatever looks interesting next.*
 
 ---
 
 ### 🚀 Tech Stack
 
 [![skillicons](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,html,css,js,git,docker,vscode&perline=6)](https://skillicons.dev)
-
----
-
-### 🏆 Featured Project
-
-> **[🚚 ETA Delivery Prediction](https://github.com/Duon-gg/eta-delivery-prediction)**
-> ETA Delivery Prediction System built with **Apache Spark MLlib + Streamlit**
-> — *Predicting delivery time with real-world data pipeline*
-
----
-
-### 🔭 Currently Exploring
-
-- 🤖 **AI Agents** — building autonomous workflows
-- 🛠️ **AI Tools** — integrating LLMs into real products
-- 🎨 **Design** — making things look as good as they work
 
 ---
 
@@ -71,7 +54,7 @@ duongg = {
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn%20Dương-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-ti%E1%BA%BFn-ab7569362/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn%20Dương-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-Duon--gg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duon-gg)
 
 ---
