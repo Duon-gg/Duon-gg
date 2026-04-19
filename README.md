@@ -18,8 +18,8 @@ duongg = {
 }
 ```
 
-> *Year 3 IT student who turns ideas into real things.
-> Currently exploring tech, design, and whatever looks interesting next.*
+> *Somewhere between a student and a builder — closing the gap every day.*
+
 
 ---
 
