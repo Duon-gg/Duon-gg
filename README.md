@@ -20,6 +20,8 @@ duongg = {
 
 > *Somewhere between a student and a builder — closing the gap every day.*
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ---
 
 ### 🚀 Tech Universe
@@ -54,8 +56,6 @@ duongg = {
 ---
 
 ### 📈 Stats & Streak
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Duon-gg&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duon-gg&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
