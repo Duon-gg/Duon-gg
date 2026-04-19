@@ -20,7 +20,6 @@ duongg = {
 
 > *Somewhere between a student and a builder — closing the gap every day.*
 
-
 ---
 
 ### 🚀 Tech Stack
