@@ -1,9 +1,9 @@
-![Header](https://img.shields.io/badge/Hello%2C%20nvtd20112005-000000?style=for-the-badge&logo=starship&logoColor=white)
+![Header](https://img.shields.io/badge/Hello%2C%20Duon--gg-000000?style=for-the-badge&logo=starship&logoColor=white)
 
 # 🌌 Welcome to my universe!
 ### AI/ML Engineer | Full-Stack Developer | Open to Collaboration
 
-![Profile Views](https://komarev.com/ghpvc/?username=nvtd20112005&color=F700FF)
+![Profile Views](https://komarev.com/ghpvc/?username=Duon-gg&color=F700FF)
 
 ---
 
@@ -19,7 +19,7 @@
 
 ### 📧 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nvtd20112005)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duon-gg)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nvtd20112005&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Duon-gg&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -39,16 +39,16 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Duon-gg&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=nvtd20112005&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvtd20112005&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Duon-gg&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duon-gg&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Streak](https://streak-stats.demolab.com?user=nvtd20112005&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF)](https://github.com/denvercoder1/github-readme-streak-stats)
+[![Streak](https://streak-stats.demolab.com?user=Duon-gg&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF)](https://github.com/denvercoder1/github-readme-streak-stats)
 
 ---
 
 ### 🐍 Commit Snake
 
-![snake animation](https://github.com/nvtd20112005/nvtd20112005/raw/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Duon-gg/Duon-gg/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
