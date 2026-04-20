@@ -13,7 +13,7 @@ duongg = {
     "role"      : "Builder & Learner",
     "location"  : "Ho Chi Minh City 🇻🇳",
     "mindset"   : "Always exploring, always building",
-    "hobbies"   : ["🎮 Gaming", "🎵 Music", "🎬 Movies"],
+    "hobbies"   : ["💻 Coding", "🎮 Gaming", "🎵 Music", "🎬 Movies"],
     "motto"     : "From idea to reality.",
 }
 ```
