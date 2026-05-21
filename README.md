@@ -57,10 +57,20 @@ duongg = {
 
 ### 📈 Stats & Streak
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Duon-gg&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duon-gg&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Duon-gg&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&count_private=true&rank_icon=github" alt="Stats" height="180"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Duon-gg&layout=compact&theme=synthwave&hide_border=true&border_radius=10&langs_count=8" alt="Top Langs" height="180"/>
+  </a>
+</p>
 
-[![Streak](https://streak-stats.demolab.com?user=Duon-gg&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=7F00FF&fire=7F00FF&currStreakLabel=7F00FF)](https://github.com/denvercoder1/github-readme-streak-stats)
+<p align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Duon-gg&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=7F00FF&fire=7F00FF&currStreakLabel=7F00FF" alt="Streak"/>
+  </a>
+</p>
 
 ---
 
